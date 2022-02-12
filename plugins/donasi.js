@@ -1,11 +1,11 @@
 let handler = async m => m.reply(`
 ╭─「 Donasi • Pulsa 」
-│ • Indosat Ooredoo [085763791492]
-│ • Telkomsel [082125985924]
+│ • Indosat Ooredoo [085792429140]
+│ • XL [081958910432]
 ╰────
 
 ╭─「 Donasi • Non Pulsa 」
-│ • Gopay, OVO, Dana [082125986924]
+│ • Dana [085792429140]
 │ • https://saweria.co/LitRHap
 ╰────
 `.trim()) // Tambah sendiri kalo mau
